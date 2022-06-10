@@ -6,6 +6,8 @@ Zachary_Chipman_FinalProject: This document was the final report for the IST707 
 
 ProjectRMD.Rmd: This was the R markdown file used to create the final report document. R studio will be required to view this file. 
 
-Below is the link to the data used in this project.
+rotten_tomatoes_movies.csv: Data used for this project.
+
+Below is the link to the data source used in this project.
 
 https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
