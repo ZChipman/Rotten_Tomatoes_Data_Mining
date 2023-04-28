@@ -27,7 +27,7 @@ Since I first worked on this project, I have gained experience in various other 
 One of the goals of the original project was to compare the performance of various models. Through the optimization of these models, I plan on obtaining further insights on which of these models works best with the data. 
 
 ### Implement Natural Language Processing:
-The dataset also contained text synopses and reviews of the films. In the original project, time constraints did not allow me to implement this data into the project. In the future, I plan to either implement the text as a separate model or as part of one of the existing models.
+The dataset also contained two text columns: Info (a summary of the film) and Consensus (the critical consensus of the film). In the original project, time constraints did not allow me to implement this data into the project. In the future, I plan to either implement the text as a separate model or as part of one of the existing models.
 
 Rferences:
 
