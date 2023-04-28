@@ -11,6 +11,10 @@ Original.Rmd: This was the R markdown file used to create the final report docum
 
 rotten_tomatoes_movies.csv: CSV file containing the Kaggle data set.
 
+## Technical Requirements:
+
+The original code was written using R (version 4.0.3) and RStudio. Future work will be written in Python using Jupyter notebook. 
+
 ## Future Goals:
 
 ### Transfer to Python:
