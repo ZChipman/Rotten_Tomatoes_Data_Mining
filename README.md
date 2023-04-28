@@ -22,6 +22,8 @@ The original data set had 17,712 observations of 22 variables. After removing un
 
 ### Exploratory Data Analysis:
 
+Half of the films were rated positively by both critics and audiences. 
+
 <img width="1280" alt="Status Chart" src="https://user-images.githubusercontent.com/87530934/235267901-3270a792-15f1-487a-a10a-3140cdc1f011.png">
 
 ## Future Goals:
