@@ -13,7 +13,7 @@ rotten_tomatoes_movies.csv: CSV file containing the Kaggle data set.
 
 ## Technical Specifications:
 
-The original code was written using R (version 4.0.3) and RStudio. Future work will be written in Python using Jupyter notebook. 
+The original code was written using R (version 4.0.3) and RStudio. Future work will be written in Python using Jupyter notebook. Is should be noted that the Association Rules mining code will not be converted as I would like to focus of future research to be on the classification models. 
 
 ## Future Goals:
 
