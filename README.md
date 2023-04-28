@@ -15,6 +15,15 @@ rotten_tomatoes_movies.csv: CSV file containing the Kaggle data set.
 
 The original code was written using R (version 4.0.3) and RStudio. Future work will be written in Python using Jupyter notebook. Is should be noted that the Association Rules mining code will not be converted as I would like to focus of future research to be on the classification models. 
 
+## Development:
+
+### Data Cleaning:
+The original data set had 17,712 observations of 22 variables. After removing unwanted rows and columns, the data set had 15,814 observations of 13 variables.
+
+### Exploratory Data Analysis:
+
+![image](https://user-images.githubusercontent.com/87530934/235267727-987575f4-80ad-4b2f-841d-4af0ff637a27.png)
+
 ## Future Goals:
 
 ### Transfer to Python:
