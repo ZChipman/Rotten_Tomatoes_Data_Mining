@@ -22,7 +22,7 @@ The original data set had 17,712 observations of 22 variables. After removing un
 
 ### Exploratory Data Analysis:
 
-![image](https://user-images.githubusercontent.com/87530934/235267727-987575f4-80ad-4b2f-841d-4af0ff637a27.png)
+<img width="1280" alt="Status Chart" src="https://user-images.githubusercontent.com/87530934/235267901-3270a792-15f1-487a-a10a-3140cdc1f011.png">
 
 ## Future Goals:
 
